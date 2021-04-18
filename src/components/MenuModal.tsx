@@ -25,7 +25,7 @@ export default function MenuModal() {
                            return (
                               <li key={index}>
                                  <Link href={menu.path}>
-                                    <a>{menu.icon}{menu.title} </a>
+                                    <a> {menu.icon} {menu.title} </a>
                                  </Link>
                               </li>
                            )

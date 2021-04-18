@@ -19,7 +19,7 @@ export function FooterBox() {
                   return (
                      <li key={index} className={item.cName}>
                         <Link href={item.path}>
-                           <a title={item.title}>{item.icon}</a>
+                           <a title={item.title}> {item.icon} </a>
                         </Link>
                      </li>
                   )

@@ -51,7 +51,6 @@
    transition: 0.3s;
 }
 
-
 .overlay li a:hover{
    color: var(--primary-color);
    transform: scale(1.2);

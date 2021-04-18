@@ -8,7 +8,7 @@ export function HeaderBox() {
       <header>
          <div className={styles.content}>
             <img src="/assets/logo.svg" alt="walk" className={styles.logo} />
-            <button type="button"><MenuModal /></button>
+            <button type="button"> <MenuModal /> </button>
          </div>
       </header>
    )

@@ -4,7 +4,8 @@ import {
    FaPinterestP,
    FaTwitter,
    FaWhatsapp
-} from 'react-icons/fa';
+} 
+from 'react-icons/fa';
 
 export const SocialIcons = [
    

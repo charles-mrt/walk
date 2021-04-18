@@ -58,7 +58,6 @@ footer.section {
 }
 
 
-
 /* Media Queries*/
 
 @media
@@ -98,7 +97,6 @@ footer.section {
    }
    
 }
-
 
 @media (max-width: 800px) and (orientation: landscape),
 (max-width: 900px) and (orientation: landscape) {

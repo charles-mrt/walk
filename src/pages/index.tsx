@@ -13,7 +13,7 @@ export default function Home() {
     <div>
       <Head><title>walk - running shoes</title></Head>
       <HeaderBox />
-      <div className={styles.container}><ProductBox /></div>
+      <div className={styles.container}> <ProductBox /> </div>
       <FooterBox />
     </div>
   )

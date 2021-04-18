@@ -9,6 +9,7 @@ export function ProductBox() {
    const sliderProduct = products;
    const [current, setCurrent] = useState(0);
    const length = sliderProduct.length;
+  
    const sliderSound = () => { new Audio('/assets/slider.mp3').play() };
 
    const NextSlider = () => {

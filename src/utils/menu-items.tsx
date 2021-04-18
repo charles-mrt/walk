@@ -5,7 +5,7 @@ import {
    FaShoePrints,
    FaGifts
 } 
-   from 'react-icons/fa';
+from 'react-icons/fa';
  
 export const MenuItems = [
    {
