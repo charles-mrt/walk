@@ -55,7 +55,7 @@ export function ProductBox() {
 
          <main>
             <span className={styles.arrows}>
-               <FaAngleDoubleLeft onClick={PrevSlider} />
+               <FaAngleDoubleLeft onClick={PrevSlider}  />
                <FaAngleDoubleRight onClick={NextSlider} />
             </span>
             {sliderProduct.map((product, index) => {
@@ -65,7 +65,7 @@ export function ProductBox() {
                         {index === current && (
                            <>
                               <span className={'backgroundLight' + `${product.id}`} />
-                              <img src={product.image} alt={product.alt} />
+                              <img src={product.image} alt={product.alt} onTouchMove={NextSlider} />
                               <h2>{product.title}</h2>
                            </>
                         )}
