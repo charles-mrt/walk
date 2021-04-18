@@ -1,4 +1,4 @@
-# projeto Move It 
+# projeto Walk landing Page
 projeto baseado na semana nlw 4 ministrada pela Rocketseat
 
 <strong>Descrição</strong>
