@@ -1,0 +1,71 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;       
+   scroll-behavior: smooth;
+}
+
+button{
+   background: none;
+   border: 0;
+   outline: none;
+}
+
+:root {
+   --dark: #2D2D2D;
+   --light-gray: #DEDEDE;
+   --buy-button: rgba(77, 77, 77, 0.5);
+   --white: #ffffff;
+   --primary-color: #8257e6;
+   --light-shadow: #151515;
+}
+
+body {   
+   background:url("../../public/assets/background_image.svg");   
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center; 
+   background-color: var(--dark);    
+
+   max-width: 100%;
+   height: 100vh;
+   margin: 0 auto;
+}
+
+p, h3, h2 {
+   font-family: Oswald, sans-serif;
+}
+
+
+/*Products from ProductBox*/
+   .slide {
+      opacity: 0;
+      transform: skew(0deg, -5deg); 
+      filter: saturate(6);
+   }
+   .slideActive {
+      transition: 2s ease;
+      transform: scale(1.2);     
+      padding: 0 1rem 0 1rem;
+      position: relative;
+   }
+    
+   .titleActive {
+      transition: 3s linear;
+   }
+   .title {
+      opacity: 0;   
+   }
+
+   .backgroundLight1{   
+      background: linear-gradient(68.83deg, rgb(247, 54, 57) 0.85%, rgb(255, 0, 183) 67.69%, rgb(102, 102, 255) 89.3%);
+   }
+
+   .backgroundLight2{   
+      background: linear-gradient(68.83deg, rgb(102, 102, 255) 31.89%, rgb(255, 0, 184) 72.38%, rgb(247, 54, 57) 91.56%);
+   }
+
+   .backgroundLight3{   
+      background: linear-gradient(68.83deg, rgb(250, 255, 0) 18.94%, rgb(0, 240, 255) 53.2%, rgb(0, 255, 163) 83.46%);
+   }
+

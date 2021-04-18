@@ -1,0 +1,39 @@
+[
+   {
+      "id": "1",
+      "image": "/assets/shoes1.png",
+      "alt": "shoes: red and purple",
+      "color": "red/purple",
+      "title": "Made for runners",
+      "title_description1": "Limited Edition",
+      "title_description2": "Perfection",
+      "description1": "These three colors were made in honor of the flags of the three main winners of the world mega marathon",
+      "description2": "perfect for marathon athletes, due to its gradual damping system. Avoids transferring the impact to the weakest regions of the leg."
+   },
+
+   {  
+      "id": "2",
+      "image": "/assets/shoes2.png",
+      "alt": "shoes: blue and purple",
+      "color": "blue/purple",
+      "title": "Ultra light",
+      "title_description1": "nano technology",
+      "title_description2": "New Design",
+      "description1": "latest nano sole particles make the soles have unparalleled softness, and indeed have the function of “extreme softness”, so you have a strong rebound force when exercising, and standing for a long time will not make you feel uncomfortable.",
+      "description2": "Breathable mesh upper sport shoes, expand with your foot when you run and they more comfortable closely fit to help you reduce irritation."      
+   },
+
+   {
+      "id": "3",
+      "image": "/assets/shoes3.png",
+      "alt": "shoes: yellow and green",
+      "color": "yellow/green",
+      "title": "Best Tecnology",
+      "title_description1": "new concept",
+      "title_description2": "daily use",
+      "description1": "Its redesigned upper helps cut down on the bulk, offering support and a secure feel on long and short runs.",
+      "description2": "If running was what stimulated you so far. This new concept brings in addition to a perfect example for athletes, a perfect shoe for everyday life."
+   }
+]
+
+

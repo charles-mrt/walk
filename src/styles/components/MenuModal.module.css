@@ -1,0 +1,63 @@
+
+.menu span{
+   color: var(--light-gray);
+   font-size: 1.5rem;
+   cursor: pointer;  
+   transition: 0.3s;
+   position: absolute;
+   right: 0;
+   top: 0;
+   margin: 1.2rem;
+}
+.menu button:hover {
+   color: var(--primary-color)
+}
+
+.overlay {
+  position: fixed;
+  z-index: 99;
+
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  display: grid;
+  justify-content: center;
+  align-items: center;  
+
+  background-color: rgba(0,0,0,0.8); 
+}
+
+.overlay ul {
+   list-style: none;   
+}
+
+.overlay li {
+   padding: 1rem;
+   
+}
+.overlay li a {
+   color: var(--white);
+   text-decoration: none;
+   font-family: Oswald, sans-serif;
+   font-size: 2rem;
+   letter-spacing: 1px;
+
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   
+   transition: 0.3s;
+}
+
+
+.overlay li a:hover{
+   color: var(--primary-color);
+   transform: scale(1.2);
+}
+.overlay li a svg{
+   margin-right: 0.5rem;
+}
+
+

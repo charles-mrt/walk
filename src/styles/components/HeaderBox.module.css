@@ -1,0 +1,11 @@
+.content {
+   padding: 0.5rem;
+
+   display: flex;
+   justify-content: space-between;
+   background: rgb(0,0,0,0.4);
+}
+
+.content .logo {
+   max-width: 8rem;
+}
