@@ -1,5 +1,4 @@
 # projeto Walk landing Page
-projeto baseado na semana nlw 4 ministrada pela Rocketseat
 
 <strong>Descrição</strong>
 - WALK é um projeto de landing page para venda de tênis. O foco da página é direcionar o usuário a aquisição do produto, através de uma página atraente, onde os modelos de tênis são exibidos em slide.
@@ -30,8 +29,6 @@ No diretório do projeto através do terminal, execute o comando abaixo para ins
 - Acesse seu navegador com o endereço: (http://localhost:3000) .
 
 
-A página será recarregada se você fizer edições. \
-Você também verá quaisquer erros de lint no console.
 
 # Licença Licença MIT
 <p align="center">
