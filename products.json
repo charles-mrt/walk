@@ -2,7 +2,7 @@
 [
    {
       "id": "1",
-      "image": "/assets/shoes1.png",
+      "image": "/assets/shoes1.svg",
       "alt": "shoes: red and purple",
       "color": "red/purple",
       "title": "Made for runners",
@@ -14,7 +14,7 @@
 
    {  
       "id": "2",
-      "image": "/assets/shoes2.png",
+      "image": "/assets/shoes2.svg",
       "alt": "shoes: blue and purple",
       "color": "blue/purple",
       "title": "Ultra light",
@@ -26,7 +26,7 @@
 
    {
       "id": "3",
-      "image": "/assets/shoes3.png",
+      "image": "/assets/shoes3.svg",
       "alt": "shoes: yellow and green",
       "color": "yellow/green",
       "title": "Best Tecnology",
