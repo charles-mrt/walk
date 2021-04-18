@@ -1,4 +1,4 @@
-<strong>Descrição</strong>
+# Descrição
 - WALK é um projeto de landing page para venda de tênis. O foco da página é direcionar o usuário a aquisição do produto, através de uma página atraente, onde os modelos de tênis são exibidos em slide.
 Entre as transições dos modelos ocorre a alteração da cor de fundo baseado nas cores do tênis.
 
