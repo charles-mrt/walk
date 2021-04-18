@@ -6,9 +6,9 @@ Entre as transições dos modelos ocorre a alteração da cor de fundo baseado n
  - ReactJs, Next.Js, TypeScript, Css.
 
 <p align="center">
-  <a href="https://walk-ld-page.vercel.app/" target="_blank"><img src="https://i.ibb.co/VmbtWk9/walk-ldpage.jpg" alt="Home-custom" border="0"></a>
+  <a href="https://walk-landing-page.vercel.app/" target="_blank"><img src="https://i.ibb.co/VmbtWk9/walk-ldpage.jpg" alt="Home-custom" border="0"></a>
 </p>
-<h1>Demonstração:  <a href="https://walk-ld-page.vercel.app/" target="_blank">Ir para Walk Landing Page</a></h1>
+<h1>Demonstração:  <a href="https://walk-landing-page.vercel.app/" target="_blank">Ir para Walk Landing Page</a></h1>
 
 
 ## Scripts Disponíveis para rodar sua aplicação
