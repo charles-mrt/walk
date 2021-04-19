@@ -69,3 +69,10 @@ p, h3, h2 {
    background: linear-gradient(68.83deg, rgb(250, 255, 0) 18.94%, rgb(0, 240, 255) 53.2%, rgb(0, 255, 163) 83.46%);
 }
 
+
+/*reset cursor pointer for mobile device */
+@media(max-width: 950px) {
+   a {
+      cursor: none; 
+   }
+}
