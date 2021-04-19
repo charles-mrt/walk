@@ -59,9 +59,5 @@
    margin-right: 0.5rem;
 }
 
-@media(max-width: 950px) {
-   .overlay li a {
-      cursor: none; 
-   }
-}
+
 
