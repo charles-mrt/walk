@@ -163,7 +163,6 @@
 
 /*section -> footer*/
 .product footer {
-   margin-top: 3rem;
    display: block;
    justify-content: center;
    align-items: center; 
@@ -213,7 +212,7 @@
       min-height: 100%;
    }
    .slider h2 {          
-      font-size: 2rem; 
+      font-size: 2rem;
    }
    /**/  
 }
