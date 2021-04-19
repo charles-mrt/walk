@@ -84,7 +84,7 @@ export function ProductBox() {
                            <span
                               className={'backgroundLight' + `${product.id}`}
                               style={{
-                                 padding: `${index === current ? '0.8rem' : '0.6rem'}`,
+                                 padding: `${index === current ? '0.6rem' : '0.6rem'}`,
                                  boxShadow: `${index === current ? '0px 0px 6px 2px var(--white)' : ''}`,
                               }}
                            />
