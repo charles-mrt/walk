@@ -15,17 +15,18 @@ Entre as transições dos modelos ocorre a alteração da cor de fundo baseado n
 
 <strong> 1º </srtong>Instalação do projeto 
 - Clone o projeto através da url: https://github.com/charles-mrt/walk.git
-No diretório do projeto através do terminal, execute o comando abaixo para instalar as dependencias do next:
-- <strong> <code>yarn install</code></strong>
-- <strong> <code>yarn add typescript @types/react @types/react-dom @types/node -D</code></strong>
 
-<strong> 2º </srtong>Rodar o projeto.
-- No terminal dentro do diretório da aplicação, execute o comando:
-<strong> <code>yarn dev</code></strong>
+Follow the steps below
+```bash
+# Install the dependencies
+$ yarn
 
-<strong> 3º </srtong>Executa o aplicativo no modo de desenvolvimento.\
+# Start the project
+$ yarn dev
+
+Executa o aplicativo no modo de desenvolvimento.\
 - Acesse seu navegador com o endereço: (http://localhost:3000) .
-
+```
 
 A página será recarregada se você fizer edições. \
 Você também verá quaisquer erros de lint no console.
