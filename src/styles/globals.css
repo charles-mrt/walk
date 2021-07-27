@@ -18,6 +18,13 @@ button{
    --white: #ffffff;
    --primary-color: #8257e6;
    --light-shadow: #151515;
+
+   --red-light:  rgba(247, 54, 57);
+   --pink-light: rgba(255, 0, 183);
+   --blue-light: rgba(102, 102, 255);
+   --aqua-light: rgba(0, 240, 255);
+   --yellow-light: rgba(250, 255, 0);
+   --green-light: rgba(0, 255, 163);
 }
 
 body {   
@@ -59,16 +66,29 @@ p, h3, h2 {
    opacity: 0;   
 }
 
-.backgroundLight1{   
-   background: linear-gradient(68.83deg, rgb(247, 54, 57) 0.85%, rgb(255, 0, 183) 67.69%, rgb(102, 102, 255) 89.3%);
+.backgroundLight1 {   
+   background: 
+   linear-gradient(68.83deg, 
+   var(--red-light) 0.85%, 
+   var(--pink-light) 67.69%, 
+   var(--blue-light) 89.3%);
+
 }
 
-.backgroundLight2{   
-   background: linear-gradient(68.83deg, rgb(102, 102, 255) 31.89%, rgb(255, 0, 184) 72.38%, rgb(247, 54, 57) 91.56%);
+.backgroundLight2 {   
+   background: 
+   linear-gradient(68.83deg, 
+   var(--blue-light) 31.89%, 
+   var(--pink-light) 72.38%, 
+   var(--red-light)  91.56%);
 }
 
-.backgroundLight3{   
-   background: linear-gradient(68.83deg, rgb(250, 255, 0) 18.94%, rgb(0, 240, 255) 53.2%, rgb(0, 255, 163) 83.46%);
+.backgroundLight3 {   
+   background: 
+   linear-gradient(68.83deg, 
+   var(--yellow-light) 18.94%, 
+   var(--aqua-light) 53.2%, 
+   var(--green-light) 83.46%);
 }
 
 
