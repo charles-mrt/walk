@@ -126,11 +126,12 @@
    position: absolute;
    z-index: 1;
    
-   -webkit-filter: blur(100px);
+   /*-webkit-filter: blur(100px);
    -moz-filter: blur(100px);
    -o-filter: blur(100px);
    -ms-filter: blur(100px);
-   filter: blur(100px);
+   filter: blur(100px);*/
+   filter: blur(10rem);
 }
 
 /*product image*/
