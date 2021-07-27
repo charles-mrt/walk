@@ -6,7 +6,7 @@
    margin: 1rem;
 }
 .product {
-   animation: load 2s ease-in;
+   animation: load 1s ease-in;
 }
 
 @keyframes load {
@@ -139,9 +139,6 @@
 
    filter: drop-shadow(0 40px 25px var(--light-shadow));
 }
-.slider img:hover {   
-      transform: scale(1.2);
-   }
 
 /*product title*/
 .slider h2 {

@@ -30,6 +30,8 @@ body {
    max-width: 100%;
    height: 100vh;
    margin: 0 auto;
+
+   overflow: hidden; 
 }
 
 p, h3, h2 {
@@ -44,14 +46,14 @@ p, h3, h2 {
    filter: saturate(6);
 }
 .slideActive {
-   transition: 2s ease;
+   transition: 1s ease;
    transform: scale(1.2);     
    padding: 0 1rem 0 1rem;
    position: relative;
 }
  
 .titleActive {
-   transition: 3s linear;
+   transition: 2s linear;
 }
 .title {
    opacity: 0;   
