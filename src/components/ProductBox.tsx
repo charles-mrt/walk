@@ -13,12 +13,12 @@ export function ProductBox() {
    const sliderSound = () => { new Audio('/assets/slider.mp3').play() };
 
    const NextSlider = () => {
-      setCurrent(current === length - 1 ? 0 : current + 1);
       sliderSound()
+      setCurrent(current === length - 1 ? 0 : current + 1);
    }
    const PrevSlider = () => {
-      setCurrent(current === 0 ? length - 1 : current - 1);
       sliderSound()
+      setCurrent(current === 0 ? length - 1 : current - 1);
    }
 
 
