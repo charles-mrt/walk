@@ -65,7 +65,7 @@ export function ProductBox() {
                         {index === current && (
                            <>
                               <span className={'backgroundLight' + `${product.id}`} />
-                              <img src={product.image} alt={product.alt} onTouchMove={NextSlider} />
+                              <img src={product.image} alt={product.alt} />
                               <h2>{product.title}</h2>
                            </>
                         )}
