@@ -99,9 +99,7 @@ footer.section {
       height: 3rem;
       border-radius: 5px;
    }
-   .section .content button:hover{
-      margin: 0 0 1rem 0;
-   }
+   
    .content button svg {
       font-size: 2rem;
    }
