@@ -339,6 +339,7 @@
       -o-filter: blur(50px);
       -ms-filter: blur(50px);
       filter: blur(50px); 
+      border-radius: 30%;
    }
    .slider img {
       width: 16rem; 
